@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/satvik0717/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satvik0717/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/satvik0717/LeetCode/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/satvik0717/LeetCode/tree/master/0541-reverse-string-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/satvik0717/LeetCode/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/satvik0717/LeetCode/tree/master/0541-reverse-string-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
