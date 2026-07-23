@@ -1,24 +1,14 @@
 class Solution {
     public String reverseWords(String s) {
-
-        char[] arr = s.toCharArray();
-        int n = arr.length;
-        int st =0;
-        for(int end =0; end<=n; end++){
-            if(end == n || arr[end] == ' '){
-                reverse(arr,st,end-1);
-                st = end + 1;
+        String [] word = s.split(" ");
+        StringBuilder ans = new StringBuilder();
+        int n =word.length;
+        for(int i=0;i<n;i++){
+            ans.append(new StringBuilder(word[i]).reverse());
+            if( i != n-1){
+                ans.append(" ");
             }
         }
-        return new String(arr);
-    }
-    private void reverse(char[]arr,int left ,int right){
-        while(left<right){
-            char temp = arr[left];
-            arr[left] = arr[right];
-            arr[right] = temp;
-            left++;
-            right--;
-        }
+        return ans.toString();
     }
 }
