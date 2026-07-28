@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/satvik0717/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/satvik0717/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/satvik0717/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0905-sort-array-by-parity](https://github.com/satvik0717/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/satvik0717/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/satvik0717/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
@@ -47,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/satvik0717/LeetCode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/satvik0717/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/satvik0717/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0905-sort-array-by-parity](https://github.com/satvik0717/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/satvik0717/LeetCode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/satvik0717/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satvik0717/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/satvik0717/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/satvik0717/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
