@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/satvik0717/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/satvik0717/LeetCode/tree/master/0075-sort-colors) |
+| [0202-happy-number](https://github.com/satvik0717/LeetCode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/satvik0717/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satvik0717/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/satvik0717/LeetCode/tree/master/0392-is-subsequence) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/satvik0717/LeetCode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/satvik0717/LeetCode/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/satvik0717/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/satvik0717/LeetCode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/satvik0717/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satvik0717/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Matrix
