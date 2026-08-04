@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/satvik0717/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/satvik0717/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/satvik0717/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0766-toeplitz-matrix](https://github.com/satvik0717/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/satvik0717/LeetCode/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/satvik0717/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/satvik0717/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/satvik0717/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/satvik0717/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0766-toeplitz-matrix](https://github.com/satvik0717/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/satvik0717/LeetCode/tree/master/0867-transpose-matrix) |
 ## Divide and Conquer
 |  |
