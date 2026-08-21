@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/satvik0717/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/satvik0717/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/satvik0717/LeetCode/tree/master/0162-find-peak-element) |
+| [0229-majority-element-ii](https://github.com/satvik0717/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/satvik0717/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/satvik0717/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/satvik0717/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/satvik0717/LeetCode/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/satvik0717/LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/satvik0717/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satvik0717/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/satvik0717/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/satvik0717/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/satvik0717/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/satvik0717/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/satvik0717/LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/satvik0717/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satvik0717/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Matrix
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/satvik0717/LeetCode/tree/master/0229-majority-element-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/satvik0717/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## String
 |  |
@@ -135,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/satvik0717/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/satvik0717/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
