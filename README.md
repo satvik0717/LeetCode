@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/satvik0717/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/satvik0717/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/satvik0717/LeetCode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/satvik0717/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/satvik0717/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/satvik0717/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/satvik0717/LeetCode/tree/master/0075-sort-colors) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/satvik0717/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/satvik0717/LeetCode/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/satvik0717/LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/satvik0717/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/satvik0717/LeetCode/tree/master/0229-majority-element-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/satvik0717/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
