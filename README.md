@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/satvik0717/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/satvik0717/LeetCode/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/satvik0717/LeetCode/tree/master/0367-valid-perfect-square) |
+| [1903-largest-odd-number-in-string](https://github.com/satvik0717/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/satvik0717/LeetCode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/satvik0717/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/satvik0717/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1903-largest-odd-number-in-string](https://github.com/satvik0717/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/satvik0717/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/satvik0717/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
