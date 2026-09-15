@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/satvik0717/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/satvik0717/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/satvik0717/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/satvik0717/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/satvik0717/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satvik0717/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/satvik0717/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/satvik0717/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/satvik0717/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/satvik0717/LeetCode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/satvik0717/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/satvik0717/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satvik0717/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/satvik0717/LeetCode/tree/master/0392-is-subsequence) |
