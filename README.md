@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/satvik0717/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/satvik0717/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/satvik0717/LeetCode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/satvik0717/LeetCode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/satvik0717/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/satvik0717/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/satvik0717/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satvik0717/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/satvik0717/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/satvik0717/LeetCode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/satvik0717/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/satvik0717/LeetCode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/satvik0717/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satvik0717/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/satvik0717/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/satvik0717/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/satvik0717/LeetCode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/satvik0717/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/satvik0717/LeetCode/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/satvik0717/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1903-largest-odd-number-in-string](https://github.com/satvik0717/LeetCode/tree/master/1903-largest-odd-number-in-string) |
